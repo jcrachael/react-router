@@ -1,0 +1,6 @@
+{
+  "short_name": "React Router",
+  "name": "React Router Sample",
+  "start_url": ".",
+  "display": "standalone"
+}
